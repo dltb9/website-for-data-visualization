@@ -7,4 +7,8 @@ D3.js, Tableau
 The data source comes from Yelp 2017 Dataset Challenge, which provides 6 tables, business, review, user, check-in, tip and photo table. In this paper, we describe the data more about the company level, thus we use business data as our dataset.  
 Business data lists the name, location, business hours, cuisine categories, average star rating, evaluation quantity and other related factors, such as noise level, reservation policy. In addition, it contains 156639 business records. Most of these records are in the United States but the dataset only contains several states’ information and we use these records in our analysis. Bar chart and line chart can display the total number and tendency of the dataset. Those charts are useful tools in the data visualization area and we also apply these tools into our work.
 ## Example of Results
-![Word Cloud of Restaurant.](https://github.com/liudanlu001/website-for-data-visualization/blob/master/final_project/Results/Picture1.png)
+![Word Cloud of Restaurant.](https://github.com/liudanlu001/website-for-data-visualization/blob/master/final_project/Results/Picture1.png). 
+Word Cloud of Restaurant.  
+![Word Cloud of Restaurant.](https://github.com/liudanlu001/website-for-data-visualization/blob/master/final_project/Results/Picture2.png). 
+![Word Cloud of Restaurant.](https://github.com/liudanlu001/website-for-data-visualization/blob/master/final_project/Results/Picture3.png). 
+![Word Cloud of Restaurant.](https://github.com/liudanlu001/website-for-data-visualization/blob/master/final_project/Results/Picture6.png). 
