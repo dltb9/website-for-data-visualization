@@ -1,0 +1,905 @@
+{
+ "name": "TOP10",
+ "children": [
+  {
+   "name": "Smoking TOP10",
+   "children": [
+    {
+     "name": "1. Art & Enterainment",
+     "children": [
+      {"name": "AZ", "size": 1119},
+      {"name": "BW", "size": 152},
+	  {"name": "EDH", "size": 178},
+	  {"name": "HLD", "size": 7},
+	  {"name": "IL", "size": 46},
+	  {"name": "MLN", "size": 5},
+      {"name": "NC", "size": 359},
+      {"name": "NV", "size": 1446},
+      {"name": "OH", "size": 368},
+	  {"name": "ON", "size": 685},
+      {"name": "PA", "size": 302},
+	  {"name": "QC", "size": 218},
+      {"name": "SC", "size": 7},
+	  {"name": "WI", "size": 140}
+     ]
+    },
+    {"name": "2. Bars",
+	 "children":[
+	  {"name": "AZ", "size": 1834},
+      {"name": "BW", "size": 318},
+	  {"name": "EDH", "size": 534},
+	  {"name": "FIF", "size": 22},
+	  {"name": "MLN", "size": 24},
+	  {"name": "HLD", "size": 33},
+	  {"name": "IL", "size": 104},
+      {"name": "NC", "size": 697},
+      {"name": "NV", "size": 1489},
+      {"name": "OH", "size": 1083},
+	  {"name": "ON", "size": 1890},
+      {"name": "PA", "size": 783},
+	  {"name": "QC", "size": 611},
+      {"name": "SC", "size": 28},
+	  {"name": "WI", "size": 388}
+	 ]
+	},
+    {"name": "3. Coctail Bars",
+	 "children":[
+	  {"name": "AZ", "size": 156},
+      {"name": "BW", "size": 56},
+	  {"name": "EDH", "size": 33},
+	  {"name": "FIF", "size": 2},
+	  {"name": "MLN", "size": 4},
+	  {"name": "HLD", "size": 3},
+	  {"name": "IL", "size": 5},
+      {"name": "NC", "size": 73},
+      {"name": "NV", "size": 162},
+      {"name": "OH", "size": 72},
+	  {"name": "ON", "size": 151},
+      {"name": "PA", "size": 61},
+	  {"name": "QC", "size": 88},
+      {"name": "SC", "size": 1},
+	  {"name": "WI", "size": 27}
+	 ]
+	},
+	{
+     "name": "4. Food",
+     "children": [
+      {"name": "AZ", "size": 4901},
+      {"name": "BW", "size": 637},
+	  {"name": "EDH", "size": 769},
+	  {"name": "IL", "size": 259},
+      {"name": "MLN", "size": 37}, 
+      {"name": "NC", "size": 1648},
+      {"name": "NV", "size": 3349},
+      {"name": "OH", "size": 1916},
+	  {"name": "ON", "size": 5466},
+      {"name": "PA", "size": 1528},
+	  {"name": "QC", "size": 1618},
+      {"name": "SC", "size": 106},
+	  {"name": "WI", "size": 702}
+     ]
+    },
+	{
+     "name": "5. Lounges",
+     "children": [
+      {"name": "AZ", "size": 249},
+      {"name": "BW", "size": 32},
+	  {"name": "EDH", "size": 34},
+	  {"name": "IL", "size": 16}, 
+      {"name": "NC", "size": 80},
+      {"name": "NV", "size": 333},
+      {"name": "OH", "size": 87},
+	  {"name": "ON", "size": 304},
+      {"name": "PA", "size": 87},
+	  {"name": "QC", "size": 81},
+      {"name": "SC", "size": 3},
+	  {"name": "WI", "size": 39}
+     ]
+    },
+	{"name": "6. Nightlife",
+	 "children": [
+      {"name": "AZ", "size": 2098},
+      {"name": "BW", "size": 373},
+	  {"name": "EDH", "size": 592},
+	  {"name": "HLD", "size": 35},
+	  {"name": "IL", "size": 118},
+	  {"name": "MLN", "size": 24},
+      {"name": "NC", "size": 776},
+      {"name": "NV", "size": 1976},
+      {"name": "OH", "size": 1180},
+	  {"name": "ON", "size": 2120},
+      {"name": "PA", "size": 839},
+	  {"name": "QC", "size": 727},
+      {"name": "SC", "size": 30},
+	  {"name": "WI", "size": 419}
+     ]
+	},
+	{"name": "7. Pubs",
+	 "children": [
+      {"name": "AZ", "size": 166},
+      {"name": "BW", "size": 57},
+	  {"name": "EDH", "size": 331},
+	  {"name": "HLD", "size": 23},
+	  {"name": "FIF", "size": 18}, 
+	  {"name": "IL", "size": 13},
+	  {"name": "MLN", "size": 15},
+      {"name": "NC", "size": 105},
+      {"name": "NV", "size": 192},
+      {"name": "OH", "size": 208},
+	  {"name": "ON", "size": 522},
+      {"name": "PA", "size": 105},
+	  {"name": "QC", "size": 156},
+      {"name": "SC", "size": 5},
+	  {"name": "WI", "size": 86}
+     ]
+	},
+	{"name": "8. Restaurants",
+	 "children": [
+      {"name": "AZ", "size": 10219},
+      {"name": "BW", "size": 1759},
+	  {"name": "EDH", "size": 1396},
+	  {"name": "HLD", "size": 60},
+	  {"name": "IL", "size": 598},
+	  {"name": "MLN", "size": 92},
+      {"name": "NC", "size": 3625},
+      {"name": "NV", "size": 6883},
+      {"name": "OH", "size": 4513},
+	  {"name": "ON", "size": 12634},
+      {"name": "PA", "size": 3435},
+	  {"name": "QC", "size": 4567},
+      {"name": "SC", "size": 201},
+	  {"name": "WI", "size": 1486}
+     ]
+	},
+	{"name": "9. Sports Bars",
+	 "children": [
+      {"name": "AZ", "size": 498},
+      {"name": "BW", "size": 14},
+	  {"name": "EDH", "size": 8},
+	  {"name": "HLD", "size": 1},
+	  {"name": "IL", "size": 20},
+      {"name": "NC", "size": 159},
+      {"name": "NV", "size": 301},
+      {"name": "OH", "size": 233},
+	  {"name": "ON", "size": 283},
+      {"name": "PA", "size": 123},
+	  {"name": "QC", "size": 49},
+      {"name": "SC", "size": 16},
+	  {"name": "WI", "size": 75}
+     ]
+	},
+	{"name": "10. Wine Bars",
+	 "children": [
+      {"name": "AZ", "size": 237},
+      {"name": "BW", "size": 71},
+	  {"name": "EDH", "size": 46},
+	  {"name": "IL", "size": 7},
+	  {"name": "MLN", "size": 3},
+      {"name": "NC", "size": 110},
+      {"name": "NV", "size": 88},
+      {"name": "OH", "size": 112},
+	  {"name": "ON", "size": 156},
+      {"name": "PA", "size": 57},
+	  {"name": "QC", "size": 58},
+      {"name": "SC", "size": 2},
+	  {"name": "WI", "size": 28}
+     ]
+	}
+   ]
+  },
+  {
+   "name": "Number of Records TOP10",
+   "children": [
+    {"name": "1. Automotive", 
+	 "children":[
+	  {"name": "AZ", "size": 3811},
+      {"name": "BW", "size": 58},
+	  {"name": "EDH", "size": 14},
+	  {"name": "HLD", "size": 4},
+	  {"name": "IL", "size": 110},
+      {"name": "NC", "size": 759},
+      {"name": "NV", "size": 2205},
+	  {"name": "NY", "size": 2},
+      {"name": "OH", "size": 738},
+	  {"name": "ON", "size": 813},
+      {"name": "PA", "size": 586},
+	  {"name": "QC", "size": 56},
+      {"name": "SC", "size": 44},
+	  {"name": "WI", "size": 270}
+	 ]
+	},
+    {"name": "2. Bars",
+	 "children":[
+	  {"name": "AZ", "size": 1834},
+      {"name": "BW", "size": 318},
+	  {"name": "EDH", "size": 534},
+	  {"name": "FIF", "size": 22},
+	  {"name": "MLN", "size": 24},
+	  {"name": "HLD", "size": 33},
+	  {"name": "IL", "size": 104},
+      {"name": "NC", "size": 697},
+      {"name": "NV", "size": 1489},
+      {"name": "OH", "size": 1083},
+	  {"name": "ON", "size": 1890},
+      {"name": "PA", "size": 783},
+	  {"name": "QC", "size": 611},
+      {"name": "SC", "size": 28},
+	  {"name": "WI", "size": 388}
+	 ]
+	},
+	{
+     "name": "3. Beauty & Spa",
+     "children": [
+      {"name": "AZ", "size": 5296},
+      {"name": "BW", "size": 135},
+	  {"name": "EDH", "size": 168},
+	  {"name": "HLD", "size": 3},
+	  {"name": "IL", "size": 137},
+      {"name": "MLN", "size": 5},
+      {"name": "NC", "size": 1180},
+      {"name": "NV", "size": 3399},
+      {"name": "OH", "size": 930},
+	  {"name": "ON", "size": 2421},
+      {"name": "PA", "size": 757},
+	  {"name": "QC", "size": 285},
+	  {"name": "SC", "size": 61},
+	  {"name": "WI", "size": 358}
+     ]
+    },
+    {
+     "name": "4. Food",
+     "children": [
+      {"name": "AZ", "size": 4901},
+      {"name": "BW", "size": 637},
+	  {"name": "EDH", "size": 769},
+	  {"name": "IL", "size": 259},
+      {"name": "MLN", "size": 37}, 
+      {"name": "NC", "size": 1648},
+      {"name": "NV", "size": 3349},
+      {"name": "OH", "size": 1916},
+	  {"name": "ON", "size": 5466},
+      {"name": "PA", "size": 1528},
+	  {"name": "QC", "size": 1618},
+      {"name": "SC", "size": 106},
+	  {"name": "WI", "size": 702}
+     ]
+    },
+	{"name": "5. Health & Medical",
+	 "children": [
+      {"name": "AZ", "size": 5724},
+      {"name": "BW", "size": 106},
+	  {"name": "EDH", "size": 63},
+	  {"name": "IL", "size": 75},
+      {"name": "NC", "size": 758},
+      {"name": "NV", "size": 3129},
+      {"name": "OH", "size": 388},
+	  {"name": "ON", "size": 1018},
+      {"name": "PA", "size": 420},
+	  {"name": "QC", "size": 88},
+      {"name": "SC", "size": 45},
+	  {"name": "WI", "size": 210}
+     ]
+	},
+    {"name": "6. Home Services",
+	 "children": [
+      {"name": "AZ", "size": 6712},
+      {"name": "BW", "size": 47},
+	  {"name": "EDH", "size": 42},
+	  {"name": "FIF", "size": 2},
+	  {"name": "IL", "size": 158},
+	  {"name": "MLN", "size": 7},
+      {"name": "NC", "size": 892},
+      {"name": "NV", "size": 3470},
+      {"name": "OH", "size": 496},
+	  {"name": "ON", "size": 498},
+      {"name": "PA", "size": 473},
+	  {"name": "QC", "size": 53},
+      {"name": "SC", "size": 41},
+	  {"name": "WI", "size": 304}
+     ]
+	},
+    {"name": "7. Local Services",
+	 "children": [
+      {"name": "AZ", "size": 3940},
+      {"name": "BW", "size": 64},
+	  {"name": "EDH", "size": 81},
+	  {"name": "IL", "size": 115},
+	  {"name": "MLN", "size": 7},
+      {"name": "NC", "size": 672},
+      {"name": "NV", "size": 2345},
+      {"name": "OH", "size": 472},
+	  {"name": "ON", "size": 839},
+      {"name": "PA", "size": 417},
+	  {"name": "QC", "size": 96},
+      {"name": "SC", "size": 32},
+	  {"name": "WI", "size": 258}
+     ]
+	},
+    {"name": "8. Nightlife",
+	 "children": [
+      {"name": "AZ", "size": 2098},
+      {"name": "BW", "size": 373},
+	  {"name": "EDH", "size": 592},
+	  {"name": "HLD", "size": 35},
+	  {"name": "IL", "size": 118},
+	  {"name": "MLN", "size": 24},
+      {"name": "NC", "size": 776},
+      {"name": "NV", "size": 1976},
+      {"name": "OH", "size": 1180},
+	  {"name": "ON", "size": 2120},
+      {"name": "PA", "size": 839},
+	  {"name": "QC", "size": 727},
+      {"name": "SC", "size": 30},
+	  {"name": "WI", "size": 419}
+     ]
+	},
+    {"name": "9. Restaurants",
+	 "children": [
+      {"name": "AZ", "size": 10219},
+      {"name": "BW", "size": 1759},
+	  {"name": "EDH", "size": 1396},
+	  {"name": "HLD", "size": 60},
+	  {"name": "IL", "size": 598},
+	  {"name": "MLN", "size": 92},
+      {"name": "NC", "size": 3625},
+      {"name": "NV", "size": 6883},
+      {"name": "OH", "size": 4513},
+	  {"name": "ON", "size": 12634},
+      {"name": "PA", "size": 3435},
+	  {"name": "QC", "size": 4567},
+      {"name": "SC", "size": 201},
+	  {"name": "WI", "size": 1486}
+     ]
+	},
+    {"name": "10. Shopping",
+	 "children": [
+      {"name": "AZ", "size": 7910},
+      {"name": "BW", "size": 416},
+	  {"name": "EDH", "size": 760},
+	  {"name": "HLD", "size": 24},
+	  {"name": "IL", "size": 308},
+	  {"name": "MLN", "size": 23},
+      {"name": "NC", "size": 1902},
+      {"name": "NV", "size": 5029},
+      {"name": "OH", "size": 1628},
+	  {"name": "ON", "size": 3688},
+      {"name": "PA", "size": 1351},
+	  {"name": "QC", "size": 673},
+      {"name": "SC", "size": 74},
+	  {"name": "WI", "size": 780}
+     ]
+	}
+   ]
+  },
+  {
+   "name": "Accepts Insurance TOP10",
+   "children": [
+    {
+     "name": "1. Beauty & Spa",
+     "children": [
+      {"name": "AZ", "size": 5296},
+      {"name": "BW", "size": 135},
+	  {"name": "EDH", "size": 168},
+	  {"name": "HLD", "size": 3},
+	  {"name": "IL", "size": 137},
+      {"name": "MLN", "size": 5},
+      {"name": "NC", "size": 1180},
+      {"name": "NV", "size": 3399},
+      {"name": "OH", "size": 930},
+	  {"name": "ON", "size": 2421},
+      {"name": "PA", "size": 757},
+	  {"name": "QC", "size": 285},
+	  {"name": "SC", "size": 61},
+	  {"name": "WI", "size": 358}
+     ]
+    },
+	{"name": "2. Chiropractors",
+	 "children": [
+      {"name": "AZ", "size": 495},
+      {"name": "BW", "size": 3},
+	  {"name": "EDH", "size": 2},
+	  {"name": "IL", "size": 6},
+      {"name": "NC", "size": 67},
+      {"name": "NV", "size": 224},
+      {"name": "OH", "size": 25},
+	  {"name": "ON", "size": 125},
+      {"name": "PA", "size": 48},
+      {"name": "SC", "size": 8},
+	  {"name": "WI", "size": 19}
+     ]
+	},
+    {"name": "3. Cosmetic Dentists",
+	 "children": [
+      {"name": "AZ", "size": 722},
+      {"name": "BW", "size": 3},
+	  {"name": "EDH", "size": 3},
+	  {"name": "IL", "size": 6},
+	  {"name": "MLN", "size": 1},
+      {"name": "NC", "size": 132},
+      {"name": "NV", "size": 331},
+      {"name": "OH", "size": 71},
+	  {"name": "ON", "size": 75},
+      {"name": "PA", "size": 46},
+	  {"name": "QC", "size": 4},
+      {"name": "SC", "size": 6},
+	  {"name": "WI", "size": 37}
+     ]
+	},
+    {"name": "4. Dentists",
+	 "children": [
+      {"name": "AZ", "size": 1320},
+      {"name": "BW", "size": 19},
+	  {"name": "EDH", "size": 11},
+	  {"name": "IL", "size": 20},
+	  {"name": "MLN", "size": 1},
+      {"name": "NC", "size": 205},
+      {"name": "NV", "size": 662},
+      {"name": "OH", "size": 110},
+	  {"name": "ON", "size": 157},
+      {"name": "PA", "size": 107},
+	  {"name": "QC", "size": 6},
+      {"name": "SC", "size": 13},
+	  {"name": "WI", "size": 50}
+     ]
+	},
+	 {"name": "5. Doctors",
+	 "children": [
+      {"name": "AZ", "size": 2140},
+      {"name": "BW", "size": 53},
+	  {"name": "EDH", "size": 17},
+	  {"name": "IL", "size": 16},
+      {"name": "NC", "size": 227},
+      {"name": "NV", "size": 1192},
+      {"name": "OH", "size": 88},
+	  {"name": "ON", "size": 202},
+      {"name": "PA", "size": 113},
+	  {"name": "QC", "size": 14},
+      {"name": "SC", "size": 15},
+	  {"name": "WI", "size": 46}
+     ]
+	},  
+    {"name": "6. General Dentistry",
+	 "children": [
+      {"name": "AZ", "size": 1010},
+      {"name": "BW", "size": 2},
+	  {"name": "EDH", "size": 3},
+	  {"name": "IL", "size": 16},
+	  {"name": "MLN", "size": 1},
+      {"name": "NC", "size": 147},
+      {"name": "NV", "size": 516},
+      {"name": "OH", "size": 84},
+	  {"name": "ON", "size": 125},
+      {"name": "PA", "size": 90},
+	  {"name": "QC", "size": 6},
+      {"name": "SC", "size": 9},
+	  {"name": "WI", "size": 45}
+     ]
+	},
+    {"name": "7. Health & Medical",
+	 "children": [
+      {"name": "AZ", "size": 5724},
+      {"name": "BW", "size": 106},
+	  {"name": "EDH", "size": 63},
+	  {"name": "IL", "size": 75},
+      {"name": "NC", "size": 758},
+      {"name": "NV", "size": 3129},
+      {"name": "OH", "size": 388},
+	  {"name": "ON", "size": 1018},
+      {"name": "PA", "size": 420},
+	  {"name": "QC", "size": 88},
+      {"name": "SC", "size": 45},
+	  {"name": "WI", "size": 210}
+     ]
+	},
+    {"name": "8. Massage",
+	 "children": [
+      {"name": "AZ", "size": 650},
+      {"name": "BW", "size": 25},
+	  {"name": "EDH", "size": 26},
+	  {"name": "IL", "size": 23},
+      {"name": "NC", "size": 165},
+      {"name": "NV", "size": 426},
+      {"name": "OH", "size": 122},
+	  {"name": "ON", "size": 391},
+      {"name": "PA", "size": 110},
+	  {"name": "QC", "size": 45},
+      {"name": "SC", "size": 10},
+	  {"name": "WI", "size": 72}
+     ]
+	},
+    {"name": "9. Massage Therapy",
+	 "children": [
+      {"name": "AZ", "size": 508},
+      {"name": "EDH", "size": 1},
+	  {"name": "IL", "size": 16},
+      {"name": "NC", "size": 110},
+      {"name": "NV", "size": 229},
+      {"name": "OH", "size": 60},
+	  {"name": "ON", "size": 129},
+      {"name": "PA", "size": 56},
+	  {"name": "QC", "size": 9},
+      {"name": "SC", "size": 9},
+	  {"name": "WI", "size": 35}
+     ]
+	},
+	{"name": "10. Medical Chenters",
+	 "children": [
+      {"name": "AZ", "size": 549},
+      {"name": "EDH", "size": 4},
+	  {"name": "IL", "size": 3},
+      {"name": "NC", "size": 51},
+      {"name": "NV", "size": 304},
+      {"name": "OH", "size": 32},
+	  {"name": "ON", "size": 154},
+      {"name": "PA", "size": 18},
+	  {"name": "QC", "size": 19},
+	  {"name": "WI", "size": 29}
+     ]
+	}
+   ]
+  },
+  {
+   "name": "Review Count TOP10",
+   "children": [
+	{"name": "1. Auto Parts & Supplies",
+	 "children":[
+	  {"name": "AZ", "size": 597},
+      {"name": "BW", "size": 7},
+	  {"name": "EDH", "size": 2},
+	  {"name": "HLD", "size": 1},
+	  {"name": "IL", "size": 22},
+      {"name": "NC", "size": 130},
+      {"name": "NV", "size": 345},
+      {"name": "OH", "size": 129},
+	  {"name": "ON", "size": 87},
+      {"name": "PA", "size": 89},
+	  {"name": "QC", "size": 3},
+      {"name": "SC", "size": 6},
+	  {"name": "WI", "size": 61}
+	 ]
+	},
+    {
+     "name": "2. Barbers",
+     "children": [
+      {"name": "AZ", "size": 599},
+      {"name": "BW", "size": 15},
+	  {"name": "EDH", "size": 13},
+	  {"name": "IL", "size": 22},
+      {"name": "NC", "size": 123},
+      {"name": "NV", "size": 284},
+      {"name": "OH", "size": 102},
+	  {"name": "ON", "size": 211},
+      {"name": "PA", "size": 101},
+	  {"name": "QC", "size": 31},
+      {"name": "SC", "size": 4},
+	  {"name": "WI", "size": 38}
+     ]
+    },
+	{
+	 "name": "3. Contractors",
+	 "children": [
+      {"name": "AZ", "size": 1109},
+      {"name": "BW", "size": 2},
+	  {"name": "EDH", "size": 2},
+	  {"name": "FIF", "size": 1},
+	  {"name": "IL", "size": 5},
+	  {"name": "MLN", "size": 1},
+      {"name": "NC", "size": 86},
+      {"name": "NV", "size": 472},
+      {"name": "OH", "size": 61},
+	  {"name": "ON", "size": 71},
+      {"name": "PA", "size": 61},
+	  {"name": "QC", "size": 8},
+      {"name": "SC", "size": 6},
+	  {"name": "WI", "size": 34}
+     ]
+	},
+    {"name": "4. Eyelash Service",
+	 "children": [
+      {"name": "AZ", "size": 422},
+	  {"name": "EDH", "size": 6},
+	  {"name": "IL", "size": 7},
+      {"name": "NC", "size": 78},
+      {"name": "NV", "size": 387},
+      {"name": "OH", "size": 34},
+	  {"name": "ON", "size": 174},
+      {"name": "PA", "size": 43},
+	  {"name": "QC", "size": 14},
+      {"name": "SC", "size": 2},
+	  {"name": "WI", "size": 18}
+     ]
+	},
+	{"name": "5. General Dentistry",
+	 "children": [
+      {"name": "AZ", "size": 1010},
+      {"name": "BW", "size": 2},
+	  {"name": "EDH", "size": 3},
+	  {"name": "IL", "size": 16},
+	  {"name": "MLN", "size": 1},
+      {"name": "NC", "size": 147},
+      {"name": "NV", "size": 516},
+      {"name": "OH", "size": 84},
+	  {"name": "ON", "size": 125},
+      {"name": "PA", "size": 90},
+	  {"name": "QC", "size": 6},
+      {"name": "SC", "size": 9},
+	  {"name": "WI", "size": 45}
+     ]
+	},
+	{
+	 "name": "6. Skin Care",
+	 "children": [
+      {"name": "AZ", "size": 964},
+      {"name": "BW", "size": 16},
+	  {"name": "EDH", "size": 8},
+	  {"name": "IL", "size": 19},
+	  {"name": "MLN", "size": 1},
+      {"name": "NC", "size": 167},
+      {"name": "NV", "size": 577},
+      {"name": "OH", "size": 103},
+	  {"name": "ON", "size": 381},
+      {"name": "PA", "size": 88},
+	  {"name": "QC", "size": 24},
+      {"name": "SC", "size": 8},
+	  {"name": "WI", "size": 42}
+     ]
+	},
+	{
+	 "name": "7. Tires",
+	 "children": [
+      {"name": "AZ", "size": 537},
+      {"name": "BW", "size": 4},
+	  {"name": "EDH", "size": 2},
+	  {"name": "HLD", "size": 1},
+	  {"name": "IL", "size": 24},
+      {"name": "NC", "size": 181},
+      {"name": "NV", "size": 278},
+      {"name": "OH", "size": 192},
+	  {"name": "ON", "size": 175},
+      {"name": "PA", "size": 148},
+	  {"name": "QC", "size": 16},
+      {"name": "SC", "size": 11},
+	  {"name": "WI", "size": 64}
+     ]
+	},
+    {
+	 "name": "8. Transportation",
+	 "children": [
+      {"name": "AZ", "size": 233},
+      {"name": "BW", "size": 17},
+	  {"name": "EDH", "size": 25},
+	  {"name": "FIF", "size": 1},
+	  {"name": "IL", "size": 20},
+      {"name": "NC", "size": 61},
+      {"name": "NV", "size": 179},
+      {"name": "OH", "size": 61},
+	  {"name": "ON", "size": 146},
+      {"name": "PA", "size": 45},
+	  {"name": "QC", "size": 27},
+      {"name": "SC", "size": 1},
+	  {"name": "WI", "size": 14}
+     ]
+	},
+	{
+	 "name": "9. Veterinarians",
+	 "children": [
+      {"name": "AZ", "size": 357},
+      {"name": "BW", "size": 11},
+	  {"name": "EDH", "size": 4},
+	  {"name": "IL", "size": 20},
+      {"name": "NC", "size": 102},
+      {"name": "NV", "size": 129},
+      {"name": "OH", "size": 106},
+	  {"name": "ON", "size": 152},
+      {"name": "PA", "size": 68},
+	  {"name": "QC", "size": 11},
+      {"name": "SC", "size": 10},
+	  {"name": "WI", "size": 57}
+     ]
+	},
+	{"name": "10. Waxing",
+	 "children": [
+      {"name": "AZ", "size": 562},
+      {"name": "BW", "size": 2},
+	  {"name": "EDH", "size": 6},
+	  {"name": "IL", "size": 12},
+      {"name": "NC", "size": 141},
+      {"name": "NV", "size": 343},
+      {"name": "OH", "size": 79},
+	  {"name": "ON", "size": 210},
+      {"name": "PA", "size": 69},
+	  {"name": "QC", "size": 13},
+      {"name": "SC", "size": 8},
+	  {"name": "WI", "size": 38}
+     ]
+	}
+   ]
+  },
+    {"name": "Open On Sunday TOP10",
+	 "children":[
+	 {"name": "1. Automotive", 
+	 "children":[
+	  {"name": "AZ", "size": 3811},
+      {"name": "BW", "size": 58},
+	  {"name": "EDH", "size": 14},
+	  {"name": "HLD", "size": 4},
+	  {"name": "IL", "size": 110},
+      {"name": "NC", "size": 759},
+      {"name": "NV", "size": 2205},
+	  {"name": "NY", "size": 2},
+      {"name": "OH", "size": 738},
+	  {"name": "ON", "size": 813},
+      {"name": "PA", "size": 586},
+	  {"name": "QC", "size": 56},
+      {"name": "SC", "size": 44},
+	  {"name": "WI", "size": 270}
+	 ]
+	},
+	{"name": "2. Bars",
+	 "children":[
+	  {"name": "AZ", "size": 1834},
+      {"name": "BW", "size": 318},
+	  {"name": "EDH", "size": 534},
+	  {"name": "FIF", "size": 22},
+	  {"name": "MLN", "size": 24},
+	  {"name": "HLD", "size": 33},
+	  {"name": "IL", "size": 104},
+      {"name": "NC", "size": 697},
+      {"name": "NV", "size": 1489},
+      {"name": "OH", "size": 1083},
+	  {"name": "ON", "size": 1890},
+      {"name": "PA", "size": 783},
+	  {"name": "QC", "size": 611},
+      {"name": "SC", "size": 28},
+	  {"name": "WI", "size": 388}
+	 ]
+	},
+	{
+     "name": "3. Beauty & Spa",
+     "children": [
+      {"name": "AZ", "size": 5296},
+      {"name": "BW", "size": 135},
+	  {"name": "EDH", "size": 168},
+	  {"name": "HLD", "size": 3},
+	  {"name": "IL", "size": 137},
+      {"name": "MLN", "size": 5},
+      {"name": "NC", "size": 1180},
+      {"name": "NV", "size": 3399},
+      {"name": "OH", "size": 930},
+	  {"name": "ON", "size": 2421},
+      {"name": "PA", "size": 757},
+	  {"name": "QC", "size": 285},
+	  {"name": "SC", "size": 61},
+	  {"name": "WI", "size": 358}
+     ]
+    },
+	{
+     "name": "4. Event Planning & Services",
+     "children": [
+      {"name": "AZ", "size": 2085},
+      {"name": "BW", "size": 269},
+	  {"name": "EDH", "size": 220},
+	  {"name": "HLD", "size": 25},
+	  {"name": "IL", "size": 103},
+	  {"name": "MLN", "size": 13},
+      {"name": "NC", "size": 633},
+      {"name": "NV", "size": 1704},
+      {"name": "OH", "size": 662},
+	  {"name": "ON", "size": 1144},
+      {"name": "PA", "size": 491},
+	  {"name": "QC", "size": 363},
+      {"name": "SC", "size": 27},
+	  {"name": "WI", "size": 275}
+     ]
+    },
+    {
+     "name": "5. Food",
+     "children": [
+      {"name": "AZ", "size": 4901},
+      {"name": "BW", "size": 637},
+	  {"name": "EDH", "size": 769},
+	  {"name": "IL", "size": 259},
+      {"name": "MLN", "size": 37}, 
+      {"name": "NC", "size": 1648},
+      {"name": "NV", "size": 3349},
+      {"name": "OH", "size": 1916},
+	  {"name": "ON", "size": 5466},
+      {"name": "PA", "size": 1528},
+	  {"name": "QC", "size": 1618},
+      {"name": "SC", "size": 106},
+	  {"name": "WI", "size": 702}
+     ]
+    },
+	{"name": "6. Home Services",
+	 "children": [
+      {"name": "AZ", "size": 6712},
+      {"name": "BW", "size": 47},
+	  {"name": "EDH", "size": 42},
+	  {"name": "FIF", "size": 2},
+	  {"name": "IL", "size": 158},
+	  {"name": "MLN", "size": 7},
+      {"name": "NC", "size": 892},
+      {"name": "NV", "size": 3470},
+      {"name": "OH", "size": 496},
+	  {"name": "ON", "size": 498},
+      {"name": "PA", "size": 473},
+	  {"name": "QC", "size": 53},
+      {"name": "SC", "size": 41},
+	  {"name": "WI", "size": 304}
+     ]
+	},
+    {"name": "7. Local Services",
+	 "children": [
+      {"name": "AZ", "size": 3940},
+      {"name": "BW", "size": 64},
+	  {"name": "EDH", "size": 81},
+	  {"name": "IL", "size": 115},
+	  {"name": "MLN", "size": 7},
+      {"name": "NC", "size": 672},
+      {"name": "NV", "size": 2345},
+      {"name": "OH", "size": 472},
+	  {"name": "ON", "size": 839},
+      {"name": "PA", "size": 417},
+	  {"name": "QC", "size": 96},
+      {"name": "SC", "size": 32},
+	  {"name": "WI", "size": 258}
+     ]
+	},
+	{"name": "8. Nightlife",
+	 "children": [
+      {"name": "AZ", "size": 2098},
+      {"name": "BW", "size": 373},
+	  {"name": "EDH", "size": 592},
+	  {"name": "HLD", "size": 35},
+	  {"name": "IL", "size": 118},
+	  {"name": "MLN", "size": 24},
+      {"name": "NC", "size": 776},
+      {"name": "NV", "size": 1976},
+      {"name": "OH", "size": 1180},
+	  {"name": "ON", "size": 2120},
+      {"name": "PA", "size": 839},
+	  {"name": "QC", "size": 727},
+      {"name": "SC", "size": 30},
+	  {"name": "WI", "size": 419}
+     ]
+	},
+    {"name": "9. Restaurants",
+	 "children": [
+      {"name": "AZ", "size": 10219},
+      {"name": "BW", "size": 1759},
+	  {"name": "EDH", "size": 1396},
+	  {"name": "HLD", "size": 60},
+	  {"name": "IL", "size": 598},
+	  {"name": "MLN", "size": 92},
+      {"name": "NC", "size": 3625},
+      {"name": "NV", "size": 6883},
+      {"name": "OH", "size": 4513},
+	  {"name": "ON", "size": 12634},
+      {"name": "PA", "size": 3435},
+	  {"name": "QC", "size": 4567},
+      {"name": "SC", "size": 201},
+	  {"name": "WI", "size": 1486}
+     ]
+	},
+	 {"name": "10. Shopping",
+	 "children": [
+      {"name": "AZ", "size": 7910},
+      {"name": "BW", "size": 416},
+	  {"name": "EDH", "size": 760},
+	  {"name": "HLD", "size": 24},
+	  {"name": "IL", "size": 308},
+	  {"name": "MLN", "size": 23},
+      {"name": "NC", "size": 1902},
+      {"name": "NV", "size": 5029},
+      {"name": "OH", "size": 1628},
+	  {"name": "ON", "size": 3688},
+      {"name": "PA", "size": 1351},
+	  {"name": "QC", "size": 673},
+      {"name": "SC", "size": 74},
+	  {"name": "WI", "size": 780}
+     ]
+	}
+	]
+	}
+   ]
+  }
